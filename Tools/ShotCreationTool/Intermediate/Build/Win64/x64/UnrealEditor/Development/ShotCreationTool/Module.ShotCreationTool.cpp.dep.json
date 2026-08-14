@@ -1,0 +1,28 @@
+{
+    "Version": "1.2",
+    "Data": {
+        "Source": "d:\\unreal projects\\easy360\\easy360\\plugins\\shotcreationtool\\intermediate\\build\\win64\\x64\\unrealeditor\\development\\shotcreationtool\\module.shotcreationtool.cpp",
+        "ProvidedModule": "",
+        "PCH": "d:\\unreal projects\\easy360\\easy360\\intermediate\\build\\win64\\x64\\easy360editor\\development\\unrealed\\sharedpch.unrealed.project.valapi.valexpapi.cpp20.h.pch",
+        "Includes": [
+            "d:\\unreal projects\\easy360\\easy360\\plugins\\shotcreationtool\\intermediate\\build\\win64\\x64\\unrealeditor\\development\\shotcreationtool\\definitions.shotcreationtool.h",
+            "d:\\unreal projects\\easy360\\easy360\\plugins\\shotcreationtool\\intermediate\\build\\win64\\x64\\unrealeditor\\development\\shotcreationtool\\permoduleinline.gen.cpp",
+            "d:\\unreal projects\\ue_5.7\\engine\\source\\runtime\\core\\public\\hal\\permoduleinline.inl",
+            "d:\\unreal projects\\easy360\\easy360\\plugins\\shotcreationtool\\source\\shotcreationtool\\private\\shotcreationtoolmodule.cpp",
+            "d:\\unreal projects\\easy360\\easy360\\plugins\\shotcreationtool\\source\\shotcreationtool\\public\\shotcreationtoolmodule.h",
+            "d:\\unreal projects\\easy360\\easy360\\plugins\\shotcreationtool\\source\\shotcreationtool\\public\\shotcreationwidget.h",
+            "d:\\unreal projects\\easy360\\easy360\\plugins\\shotcreationtool\\source\\shotcreationtool\\public\\shotcreationutility.h",
+            "d:\\unreal projects\\easy360\\easy360\\plugins\\shotcreationtool\\source\\shotcreationtool\\public\\mastersequenceutility.h",
+            "d:\\unreal projects\\ue_5.7\\engine\\source\\editor\\leveleditor\\public\\leveleditor.h",
+            "d:\\unreal projects\\ue_5.7\\engine\\source\\editor\\leveleditor\\public\\ileveleditor.h",
+            "d:\\unreal projects\\ue_5.7\\engine\\source\\runtime\\engine\\public\\elements\\framework\\engineelementslibrary.h",
+            "d:\\unreal projects\\ue_5.7\\engine\\intermediate\\build\\win64\\unrealeditor\\inc\\engine\\uht\\engineelementslibrary.generated.h",
+            "d:\\unreal projects\\ue_5.7\\engine\\source\\editor\\leveleditor\\public\\viewporttypedefinition.h",
+            "d:\\unreal projects\\ue_5.7\\engine\\source\\editor\\leveleditor\\public\\leveleditoroutlinersettings.h",
+            "d:\\unreal projects\\ue_5.7\\engine\\source\\developer\\toolwidgets\\public\\filters\\genericfilter.h",
+            "d:\\unreal projects\\ue_5.7\\engine\\source\\developer\\toolwidgets\\public\\filters\\filterbase.h"
+        ],
+        "ImportedModules": [],
+        "ImportedHeaderUnits": []
+    }
+}

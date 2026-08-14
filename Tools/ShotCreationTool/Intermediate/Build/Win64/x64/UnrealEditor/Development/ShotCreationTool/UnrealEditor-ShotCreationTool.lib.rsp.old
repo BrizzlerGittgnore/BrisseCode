@@ -1,0 +1,14 @@
+/NOLOGO
+/errorReport:prompt
+/MACHINE:x64
+/SUBSYSTEM:WINDOWS
+/DEF
+/NAME:"UnrealEditor-ShotCreationTool.dll"
+/IGNORE:4221
+/NODEFAULTLIB
+"D:/Unreal projects/Easy360/Easy360/Intermediate/Build/Win64/x64/Easy360Editor/Development/UnrealEd/SharedPCH.UnrealEd.Project.ValApi.ValExpApi.Cpp20.h.obj"
+"D:/Unreal projects/Easy360/Easy360/Plugins/ShotCreationTool/Intermediate/Build/Win64/x64/UnrealEditor/Development/ShotCreationTool/Module.ShotCreationTool.cpp.obj"
+"D:/Unreal projects/Easy360/Easy360/Plugins/ShotCreationTool/Intermediate/Build/Win64/x64/UnrealEditor/Development/ShotCreationTool/ShotCreationUtility.cpp.obj"
+"D:/Unreal projects/Easy360/Easy360/Plugins/ShotCreationTool/Intermediate/Build/Win64/x64/UnrealEditor/Development/ShotCreationTool/ShotCreationWidget.cpp.obj"
+"D:/Unreal projects/Easy360/Easy360/Plugins/ShotCreationTool/Intermediate/Build/Win64/x64/UnrealEditor/Development/ShotCreationTool/Default.rc2.res"
+/OUT:"D:/Unreal projects/Easy360/Easy360/Plugins/ShotCreationTool/Intermediate/Build/Win64/x64/UnrealEditor/Development/ShotCreationTool/UnrealEditor-ShotCreationTool.lib"

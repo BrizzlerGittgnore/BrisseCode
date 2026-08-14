@@ -1,0 +1,18 @@
+{
+    "Version": "1.2",
+    "Data": {
+        "Source": "d:\\unreal projects\\easy360\\easy360\\plugins\\shotcreationtool\\source\\shotcreationtool\\private\\shotcreationwidget.cpp",
+        "ProvidedModule": "",
+        "PCH": "d:\\unreal projects\\easy360\\easy360\\intermediate\\build\\win64\\x64\\easy360editor\\development\\unrealed\\sharedpch.unrealed.project.valapi.valexpapi.cpp20.h.pch",
+        "Includes": [
+            "d:\\unreal projects\\easy360\\easy360\\plugins\\shotcreationtool\\intermediate\\build\\win64\\x64\\unrealeditor\\development\\shotcreationtool\\definitions.shotcreationtool.h",
+            "d:\\unreal projects\\easy360\\easy360\\plugins\\shotcreationtool\\source\\shotcreationtool\\public\\shotcreationwidget.h",
+            "d:\\unreal projects\\easy360\\easy360\\plugins\\shotcreationtool\\source\\shotcreationtool\\public\\shotcreationutility.h",
+            "d:\\unreal projects\\easy360\\easy360\\plugins\\shotcreationtool\\source\\shotcreationtool\\public\\mastersequenceutility.h",
+            "d:\\unreal projects\\ue_5.7\\engine\\source\\runtime\\slate\\public\\widgets\\input\\sspinbox.h",
+            "d:\\unreal projects\\ue_5.7\\engine\\source\\runtime\\slate\\public\\widgets\\layout\\swidgetswitcher.h"
+        ],
+        "ImportedModules": [],
+        "ImportedHeaderUnits": []
+    }
+}

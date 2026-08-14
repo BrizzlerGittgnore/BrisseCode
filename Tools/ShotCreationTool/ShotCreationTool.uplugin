@@ -1,0 +1,23 @@
+{
+    "FileVersion": 3,
+    "Version": 1,
+    "VersionName": "1.0",
+    "FriendlyName": "Shot Creation Tool",
+    "Description": "Batch creation tool for cinematic shots with levels and sequences",
+    "Category": "Cinematics",
+    "CreatedBy": "Easy360",
+    "CreatedByURL": "",
+    "DocsURL": "",
+    "MarketplaceURL": "",
+    "SupportURL": "",
+    "CanContainContent": true,
+    "IsBetaVersion": false,
+    "Installed": false,
+    "Modules": [
+        {
+            "Name": "ShotCreationTool",
+            "Type": "UncookedOnly",
+            "LoadingPhase": "PostEngineInit"
+        }
+    ]
+}

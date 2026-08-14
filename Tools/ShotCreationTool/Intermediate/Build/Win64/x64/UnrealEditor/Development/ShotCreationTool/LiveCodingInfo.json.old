@@ -1,0 +1,11 @@
+{
+	"RemapUnityFiles": 
+	{
+		"Module.ShotCreationTool.cpp.obj": [
+			"PerModuleInline.gen.cpp.obj",
+			"ShotCreationToolModule.cpp.obj",
+			"ShotCreationUtility.cpp.obj",
+			"ShotCreationWidget.cpp.obj"
+		]
+	}
+}
